@@ -1,3 +1,4 @@
 function Message(){
-alert("Congratulations!\nYou got the script running.")
+document.getElementById('').innerHTML = alert(document.getElementById('inputbox').value);
 }
+
